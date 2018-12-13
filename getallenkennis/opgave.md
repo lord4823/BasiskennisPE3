@@ -1,3 +1,5 @@
+Hamming opgave
+
 1110110
 
 h1 1110 fout
